@@ -1,0 +1,19 @@
+body {
+    background-color: #00ae99;
+    text-align: center;
+}
+
+hr {
+    width: 190px;
+}
+
+input {
+    border-radius: 5px;
+} 
+.operator {
+    border-radius: 5px;
+    margin-left:0 ;
+    margin-right: 10px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
